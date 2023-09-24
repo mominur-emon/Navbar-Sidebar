@@ -1,3 +1,10 @@
+# Navbar Sidebar Design
+The Navbar and Sidebar are the design main attractions of this assignment project, and it is responsive across all devices.
+
+Using: React.js,React Router, JavaScript, Tailwind CSS, HTML, CSS
+
+[Click here to see the Project](https://mominur-emon.github.io/navbar-sidebar/)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
